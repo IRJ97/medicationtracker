@@ -1,0 +1,94 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Hussain",
+      "meds": [
+        "Kanadex",
+        "Antibiotic",
+        "Panadol"
+      ],
+      "antibioticPhase": "first"
+    },
+    {
+      "id": "2",
+      "name": "Raheem",
+      "meds": [
+        "Kanadex",
+        "Antibiotic",
+        "Panadol"
+      ],
+      "antibioticPhase": "first"
+    },
+    {
+      "id": "3",
+      "name": "Abia",
+      "meds": [
+        "Kanadex",
+        "Antibiotic",
+        "Panadol"
+      ],
+      "antibioticPhase": "first"
+    },
+    {
+      "id": "4",
+      "name": "Mahgul",
+      "meds": [
+        "Panadol"
+      ],
+      "antibioticPhase": "first"
+    },
+    {
+      "id": "5",
+      "name": "Esa",
+      "meds": [
+        "Panadol"
+      ],
+      "antibioticPhase": "first"
+    }
+  ],
+  "records": [
+    {
+      "id": "import-1",
+      "p": "1",
+      "m": "Antibiotic",
+      "t": 1795645800000
+    },
+    {
+      "id": "import-2",
+      "p": "1",
+      "m": "Panadol",
+      "t": 1795645800000
+    },
+    {
+      "id": "import-3",
+      "p": "2",
+      "m": "Kanadex",
+      "t": 1795655700000
+    },
+    {
+      "id": "import-4",
+      "p": "2",
+      "m": "Panadol",
+      "t": 1795655700000
+    },
+    {
+      "id": "import-5",
+      "p": "3",
+      "m": "Kanadex",
+      "t": 1795644900000
+    },
+    {
+      "id": "import-6",
+      "p": "3",
+      "m": "Panadol",
+      "t": 1795647600000
+    },
+    {
+      "id": "import-7",
+      "p": "4",
+      "m": "Panadol",
+      "t": 1795647600000
+    }
+  ]
+}
